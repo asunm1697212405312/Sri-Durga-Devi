@@ -234,16 +234,11 @@
   <ul>
     <li>IBM Fundamentals Of Web Development</li>
     <li>IBM Fundamentals Of Cloud Computing</li>
-    <li>Cloud Computing</li>
     <li>HTML</li>
   </ul>
 </section>
 
 <section id="projects">
-  <h2>Projects</h2>
-  <ul>
-    <li><a href="#">AI-Based Alternator Control System</a></li>
-  </ul>
 </section>
 
 <section id="resume">
